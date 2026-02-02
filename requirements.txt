@@ -5,3 +5,4 @@ numpy
 mtcnn
 pillow
 scikit-learn
+tensorflow
