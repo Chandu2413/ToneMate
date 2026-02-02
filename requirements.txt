@@ -1,0 +1,25 @@
+# Backend requirements (Node.js)
+# Generated from backend/package.json
+
+# Runtime dependencies (one per line: package version)
+axios ^1.13.2
+bcryptjs ^3.0.3
+cors ^2.8.5
+dotenv ^17.2.3
+express ^5.2.1
+form-data ^4.0.5
+jsonwebtoken ^9.0.3
+mongoose ^9.0.0
+multer ^2.0.2
+openai ^6.10.0
+
+# Dev dependencies
+nodemon ^3.1.11
+
+# Install commands
+# Install runtime + dev from package.json
+npm install
+# Or install explicit list
+npm install axios@^1.13.2 bcryptjs@^3.0.3 cors@^2.8.5 dotenv@^17.2.3 express@^5.2.1 form-data@^4.0.5 jsonwebtoken@^9.0.3 mongoose@^9.0.0 multer@^2.0.2 openai@^6.10.0
+# Install dev dependencies
+npm install --save-dev nodemon@^3.1.11
