@@ -6,3 +6,4 @@ mtcnn
 pillow
 scikit-learn
 tensorflow
+python-multipart
